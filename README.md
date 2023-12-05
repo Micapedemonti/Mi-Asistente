@@ -5,8 +5,8 @@ Este es un asistente virtual simple desarrollado en Python.
 
 1. En tu consola predeterminada debes escribir el siguiente comando git clone https://github.com/Micapedemonti/Mi-Asistente.git
 2. En tu editor de codigo favorito puedes abrir el proyecto y hacerlo correr
-3. *(posiblemente deberas instalar algunas librerias en tu entorno virtual para el funcionamiento de esta aplicacion.)
-
+3. *(posiblemente deberas instalar algunas librerias como: pyttsx3, speechRecognition,yfinance,pyjokes en tu entorno virtual para el funcionamiento de esta aplicacion.
+ 
 
 # Funcionalidades
 Abrir YouTube y el navegador.
